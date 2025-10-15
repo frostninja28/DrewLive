@@ -10,11 +10,6 @@ FALLBACK_LOGOS = {
     "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png"
 }
 
-CUSTOM_HEADERS = {
-    "Origin": "https://embedsports.top",
-    "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
-}
 
 TV_IDS = {
     "Baseball": "MLB.Baseball.Dummy.us",
