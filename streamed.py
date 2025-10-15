@@ -10,6 +10,11 @@ FALLBACK_LOGOS = {
     "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png"
 }
 
+CUSTOM_HEADERS = {
+    "Origin": "https://embedsports.top",
+    "Referer": "https://embedsports.top/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+}
 
 TV_IDS = {
     "Baseball": "MLB.Baseball.Dummy.us",
@@ -132,7 +137,11 @@ def generate_m3u8():
     content = ["#EXTM3U"]
     success = 0
 
-
+    vlc_header_lines = [
+        f'#EXTVLCOPT:http-origin={CUSTOM_HEADERS["Origin"]}',
+        f'#EXTVLCOPT:http-referrer={CUSTOM_HEADERS["Referer"]}',
+        f'#EXTVLCOPT:user-agent={CUSTOM_HEADERS["User-Agent"]}'
+    ]
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         futures = {executor.submit(process_match, m): m for m in matches}
