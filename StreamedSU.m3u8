@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Oviedo vs Espanyol" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football",Real Oviedo vs Espanyol
+https://gg.poocloud.in/laliga_real-oviedo/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris SG vs Strasbourg" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgy4KKpQhuICCAAmekCWMwQ5vjoIUmfFFzXl680Q6a0wasaIhA.webp" group-title="Football",Paris SG vs Strasbourg
 https://gg.poocloud.in/ligue1_psg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union Berlin vs Borussia Mönchengladbach" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgU5MljB8Q3EBBA7EBkiESIQIGAQpM+KLmDKr680Q6a0wTsaIhA.webp" group-title="Football",Union Berlin vs Borussia Mönchengladbach
 https://gg.poocloud.in/bundesliga_union-berlin/index.m3u8
 #EXTINF:-1 tvg-id="General.Dummy.us" tvg-name="United States Grand Prix Free Practice 1" tvg-logo="https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWqBAgpYMtxD6+ICCBjGQKbea2NgSCn2Gz6KXWxRdd5ellkemtGBu9KIQQA.webp.webp" group-title="Motor Sports",United States Grand Prix Free Practice 1
 https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Oviedo vs Espanyol" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football",Real Oviedo vs Espanyol
-https://gg.poocloud.in/laliga_real-oviedo/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Toronto Blue Jays" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp" group-title="Baseball",Seattle Mariners vs Toronto Blue Jays
 https://gg.poocloud.in/mariners/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs Tampa Bay Lightning" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp" group-title="Hockey",Detroit Red Wings vs Tampa Bay Lightning
@@ -27,8 +27,6 @@ https://gg.poocloud.in/wrestling/index.m3u8
 https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Indiana Pacers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgYgYIFCOmt4enqWy12YMKR1ugA.webp" group-title="Basketball",San Antonio Spurs vs Indiana Pacers
 https://gg.poocloud.in/spurs/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Denver Nuggets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgYguDEdNbw9PUtlrswYUjtdA.webp" group-title="Basketball",Oklahoma City Thunder vs Denver Nuggets
-https://gg.poocloud.in/thunder/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Minnesota vs Nebraska" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2IgCxkdNbw9PUtlrswYUjtdA.webp" group-title="American Football",Minnesota vs Nebraska
 https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Miami Heat vs Memphis Grizzlies" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgYguIAiOmt4enqWy12YMKR1ugA.webp" group-title="Basketball",Miami Heat vs Memphis Grizzlies
@@ -57,16 +55,16 @@ https://gg.poocloud.in/ligue1_om/index.m3u8
 https://gg.poocloud.in/seriea_lecce/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pisa vs Hellas Verona" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBiFwhGI6a3h6epbLXZgwpHS6A.webp" group-title="Football",Pisa vs Hellas Verona
 https://gg.poocloud.in/seriea_pisa/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Bremen" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSA78YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="Football",Heidenheim vs. Bremen
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heidenheim vs. Bremen" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",Heidenheim vs. Bremen
 https://gg.poocloud.in/bundesliga_heidenheim/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RB Leipzig vs Hamburger SV" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBsYU5preHp6lstdmDCkdToA.webp" group-title="Football",RB Leipzig vs Hamburger SV
-https://gg.poocloud.in/bundesliga_rb-leipzig/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolfsburg vs Stuttgart" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBsZAjpreHp6lstdmDCkdToA.webp" group-title="Football",Wolfsburg vs Stuttgart
-https://gg.poocloud.in/bundesliga_wolfsburg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mainz 05 vs Bayer Leverkusen" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBsfgjpreHp6lstdmDCkdToA.webp" group-title="Football",Mainz 05 vs Bayer Leverkusen
 https://gg.poocloud.in/bundesliga_mainz/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RB Leipzig vs Hamburger SV" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBsYU5preHp6lstdmDCkdToA.webp" group-title="Football",RB Leipzig vs Hamburger SV
+https://gg.poocloud.in/bundesliga_rb-leipzig/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="1. FC Köln vs FC Augsburg" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBixAgR01vD09S2WuzBhSO50A.webp" group-title="Football",1. FC Köln vs FC Augsburg
 https://gg.poocloud.in/bundesliga_cologne/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolfsburg vs Stuttgart" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBsZAjpreHp6lstdmDCkdToA.webp" group-title="Football",Wolfsburg vs Stuttgart
+https://gg.poocloud.in/bundesliga_wolfsburg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sunderland vs Wolverhampton Wanderers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgUYbthAwQibiAAmuEPtUpdFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Football",Sunderland vs Wolverhampton Wanderers
 https://gg.poocloud.in/epl_sunderland/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Burnley vs Leeds United" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aBiEYjpreHp6lstdmDCkdToA.webp" group-title="Football",Burnley vs Leeds United
@@ -77,18 +75,16 @@ https://gg.poocloud.in/epl_brighton/index.m3u8
 https://gg.poocloud.in/epl_crystal-palace/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester City vs Everton" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAwQBEdNbw9PUtlrswYUjtdA.webp" group-title="Football",Manchester City vs Everton
 https://gg.poocloud.in/epl_man-city/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Torino vs Napoli" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football",Torino vs Napoli
-https://gg.poocloud.in/seriea_torino/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Barcelona vs Girona" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAEWI6a3h6epbLXZgwpHS6A.webp" group-title="Football",FC Barcelona vs Girona
 https://gg.poocloud.in/laliga_fc-barcelona/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Vanderbilt vs LSU" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTNgSEChC8t3ECRAATEBBCJExvXxB8CFJra5gy8IvNEpgTWmGdjREEA.webp" group-title="American Football",Vanderbilt vs LSU
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Duke vs Georgia Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJKY1nxDcQAExARcekIh2J9KAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="American Football",Duke vs Georgia Tech
-https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Torino vs Napoli" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football",Torino vs Napoli
+https://gg.poocloud.in/seriea_torino/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Villarreal vs Real Betis" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUw3MKLBgAJiG4g9exDgggSIRCEMEKTPii6by9eaMdNa20VLpA.webp" group-title="Football",Villarreal vs Real Betis
 https://gg.poocloud.in/laliga_villarreal-cf/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayern Munich vs Borussia Dortmund" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC80IEP1IhuIPjpAATECiMgYIRCUsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football",Bayern Munich vs Borussia Dortmund
-https://gg.poocloud.in/bundesliga_bayern/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Duke vs Georgia Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJKY1nxDcQAExARcekIh2J9KAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="American Football",Duke vs Georgia Tech
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fulham vs Arsenal" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title="Football",Fulham vs Arsenal
 https://gg.poocloud.in/epl_fulham/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="South Carolina vs Oklahoma" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjAAJmxADgYbiD0kQakBBCJExwzgmFVTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="American Football",South Carolina vs Oklahoma
@@ -111,10 +107,10 @@ https://gg.poocloud.in/ABC/index.m3u8
 https://gg.poocloud.in/ufc/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="UAB vs Memphis" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJmFEtgYENxAkQakBBCJExnPvgEKTPii6by9eaMdNaYTWNEQgA.webp" group-title="American Football",UAB vs Memphis
 https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Florida vs Mississippi State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0ggQxUN1W4QMEIkTqQ+lCYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="American Football",Florida vs Mississippi State
-https://gg.poocloud.in/ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona State vs Texas Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwJgSEBBAkQ3fSBW6QiRKZDndBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="American Football",Arizona State vs Texas Tech
 https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Florida vs Mississippi State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0ggQxUN1W4QMEIkTqQ+lCYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="American Football",Florida vs Mississippi State
+https://gg.poocloud.in/ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="General.Dummy.us" tvg-name="United States Grand Prix Qualifying" tvg-logo="https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKijH1uuEDr4gIIGIZAoQU0yEMFgSCn2Gz6KMCs1s35ellmamtGBuYqIQQA.webp.webp" group-title="Motor Sports",United States Grand Prix Qualifying
 https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Rutgers vs Oregon" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgg+YGXTAoQ3ECRAATEBBCJExg8cMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="American Football",Rutgers vs Oregon
@@ -131,70 +127,70 @@ https://gg.poocloud.in/SEC Network/index.m3u8
 https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Saturday Night Collision" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" group-title="Fight",AEW: Saturday Night Collision
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Utah Utes vs. BYU Cougars" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIppAR65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="American Football",Utah Utes vs. BYU Cougars
-https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati Bearcats vs. Oklahoma State Cowboys" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiCogQ9cgwDGzBT3gyq3YQ1ZgwufA6A.webp" group-title="American Football",Cincinnati Bearcats vs. Oklahoma State Cowboys
 https://gg.poocloud.in/ESPN2/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Utah Utes vs. BYU Cougars" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIppAR65BgGNmCnvBlVuwhqzBhc+e0A.webp" group-title="American Football",Utah Utes vs. BYU Cougars
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs. Juventus" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFCH71yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Como vs. Juventus
 https://gg.poocloud.in/seriea_como/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 3 Afternoon)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="Darts",PDC: German Darts Championship (Day 3 Afternoon)
-https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Elche CF vs. Athletic Club" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRCTrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football",Elche CF vs. Athletic Club
 https://gg.poocloud.in/laliga_elche-c-f/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs. Parma" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKiHj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Genoa vs. Parma
-https://gg.poocloud.in/seriea_genoa/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs. Bologna" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGMvrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football",Cagliari vs. Bologna
-https://gg.poocloud.in/seriea_cagliari/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tottenham Hotspur vs. Aston Villa" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+i+uQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title="Football",Tottenham Hotspur vs. Aston Villa
 https://gg.poocloud.in/epl_spurs/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams vs. Jacksonville Jaguars" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IRCTrkGAY2YKe8GVW7CGrMGFz5bQA.webp" group-title="American Football",Los Angeles Rams vs. Jacksonville Jaguars
-https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs. Bologna" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGMvrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football",Cagliari vs. Bologna
+https://gg.poocloud.in/seriea_cagliari/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RC Lens vs. Paris FC" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football",RC Lens vs. Paris FC
 https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs. Parma" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKiHj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Genoa vs. Parma
+https://gg.poocloud.in/seriea_genoa/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams vs. Jacksonville Jaguars" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IRCTrkGAY2YKe8GVW7CGrMGFz5bQA.webp" group-title="American Football",Los Angeles Rams vs. Jacksonville Jaguars
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Freiburg vs. Frankfurt" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBT1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Freiburg vs. Frankfurt
 https://gg.poocloud.in/bundesliga_freiburg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta vs. Real Sociedad" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICCBD1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Celta vs. Real Sociedad
 https://gg.poocloud.in/laliga_rc-celta/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Pauli vs. Hoffenheim" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiADG9cg3VZxPeCKrcCXVmDC58FoA.webp" group-title="Football",St. Pauli vs. Hoffenheim
-https://gg.poocloud.in/bundesliga_st.-pauli/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toulouse FC vs. FC Metz" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikEzrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football",Toulouse FC vs. FC Metz
 https://gg.poocloud.in/ligue1_toulouse-fc/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs. AJ Auxerre" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCBD1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Rennes vs. AJ Auxerre
-https://gg.poocloud.in/ligue1_rennes/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Lorient vs. Brest" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH71yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",FC Lorient vs. Brest
 https://gg.poocloud.in/ligue1_fc-lorient/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs. Lazio" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIZQGN65Bmqzie8EVW4EurMGFz5zQA.webp" group-title="Football",Atalanta vs. Lazio
-https://gg.poocloud.in/seriea_atalanta/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St. Pauli vs. Hoffenheim" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiADG9cg3VZxPeCKrcCXVmDC58FoA.webp" group-title="Football",St. Pauli vs. Hoffenheim
+https://gg.poocloud.in/bundesliga_st.-pauli/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs. AJ Auxerre" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCBD1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Rennes vs. AJ Auxerre
+https://gg.poocloud.in/ligue1_rennes/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs. Manchester United" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhE8euQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title="Football",Liverpool vs. Manchester United
 https://gg.poocloud.in/epl_liverpool/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs. Lazio" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIZQGN65Bmqzie8EVW4EurMGFz5zQA.webp" group-title="Football",Atalanta vs. Lazio
+https://gg.poocloud.in/seriea_atalanta/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Levante UD vs. Rayo Vallecano" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCogQ9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title="Football",Levante UD vs. Rayo Vallecano
 https://gg.poocloud.in/laliga_levante-ud/index.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 3 Evening)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="Darts",PDC: German Darts Championship (Day 3 Evening)
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders vs. Kansas City Chiefs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAsQEYABMGl+2Yg5n1kIldPXIYYjPlyFhaMfm52MGQghPzheHp0YCwKVpJCtLHkYAnAVkIQQA.webp" group-title="American Football",Las Vegas Raiders vs. Kansas City Chiefs
 https://gg.poocloud.in/kansascitychiefs/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots vs. Tennessee Titans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQQQAE15kcwxhE68Q2DiEeSWIIZOtehFpaswI7WICCedpIc-DDAeHp0YCwKHsG0CeRgySHBEEA.webp" group-title="American Football",New England Patriots vs. Tennessee Titans
-https://gg.poocloud.in/tennesseetitans/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins vs. Cleveland Browns" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDjIgAJr15T6IDiGwhLZ8pMSIrEZ45fOYZiw2DkJCEMDeKPwwwHh6dGAsCuGSQrRx5GCJEawRQA.webp" group-title="American Football",Miami Dolphins vs. Cleveland Browns
 https://gg.poocloud.in/clevelandbrowns/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers vs. New York Jets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SohghELEBGs47V7ABMQQx504ux9FxeHPmzk4ghBahklZsBDDAeHp0YCwKEO5CtLHkYAnAyUIQQA.webp" group-title="American Football",Carolina Panthers vs. New York Jets
-https://gg.poocloud.in/newyorkjets/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles vs. Minnesota Vikings" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmwCObEdzISbYhkcvEIkE5gZkCxBWQ9gHOvt7YzPR2AeQQ-DDAeHp0YCwKTpJCtAnkYMmWrJZAA.webp" group-title="American Football",Philadelphia Eagles vs. Minnesota Vikings
-https://gg.poocloud.in/minnesotavikings/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints vs. Chicago Bears" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShE4hsHC2RzDJAExBP6IIfeBnH5F1ZhOQVu4sII7BjtjY5IgWBDDAeHp0YCwKZpJCtAnkYMkerB5AA.webp" group-title="American Football",New Orleans Saints vs. Chicago Bears
 https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nantes vs. LOSC" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",FC Nantes vs. LOSC
-https://gg.poocloud.in/ligue1_fc-nantes/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots vs. Tennessee Titans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQQQAE15kcwxhE68Q2DiEeSWIIZOtehFpaswI7WICCedpIc-DDAeHp0YCwKHsG0CeRgySHBEEA.webp" group-title="American Football",New England Patriots vs. Tennessee Titans
+https://gg.poocloud.in/tennesseetitans/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles vs. Minnesota Vikings" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmwCObEdzISbYhkcvEIkE5gZkCxBWQ9gHOvt7YzPR2AeQQ-DDAeHp0YCwKTpJCtAnkYMmWrJZAA.webp" group-title="American Football",Philadelphia Eagles vs. Minnesota Vikings
+https://gg.poocloud.in/minnesotavikings/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers vs. New York Jets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SohghELEBGs47V7ABMQQx504ux9FxeHPmzk4ghBahklZsBDDAeHp0YCwKEO5CtLHkYAnAyUIQQA.webp" group-title="American Football",Carolina Panthers vs. New York Jets
+https://gg.poocloud.in/newyorkjets/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Milan vs. Fiorentina" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",Milan vs. Fiorentina
 https://gg.poocloud.in/seriea_milan/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Getafe CF vs. Real Madrid" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",Getafe CF vs. Real Madrid
-https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nantes vs. LOSC" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",FC Nantes vs. LOSC
+https://gg.poocloud.in/ligue1_fc-nantes/index.m3u8
 #EXTINF:-1 tvg-id="General.Dummy.us" tvg-name="United States Grand Prix (Race)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/9ed2047489f94432495c480d9f171f79-thumbnail.jpg.webp" group-title="Motor Sports",United States Grand Prix (Race)
 https://gg.poocloud.in/f1/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Getafe CF vs. Real Madrid" tvg-logo="https://i.imgur.com/RvN0XSF.png" group-title="Football",Getafe CF vs. Real Madrid
+https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts vs. Los Angeles Chargers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCHKIAJsMb0QEEA468cDEJJZ3hQjzGfkLINgwUk4BtoQ4DtIEwXh6dGAsChCcrFjAceRgicApQhBAA.webp" group-title="American Football",Indianapolis Colts vs. Los Angeles Chargers
 https://gg.poocloud.in/losangeleschargers/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers vs. Arizona Cardinals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIFiHKIQIDiGwPmEXiAhSPkxIXutOYmYM5iC+MI6OYoiIbAQwwHh6dGAsCl7+tInkYCnAHkIQQA.webp" group-title="American Football",Green Bay Packers vs. Arizona Cardinals
-https://gg.poocloud.in/arizonacardinals/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants vs. Denver Broncos" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4gQwACYWQLEFYYhsjxNggXgH+x8aP6DjjWIB6EQeSIluaMkqoEMMB4enRgLAoQnKxYiWJgqV5ZEEA.webp" group-title="American Football",New York Giants vs. Denver Broncos
 https://gg.poocloud.in/denverbroncos/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers vs. Arizona Cardinals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIFiHKIQIDiGwPmEXiAhSPkxIXutOYmYM5iC+MI6OYoiIbAQwwHh6dGAsCl7+tInkYCnAHkIQQA.webp" group-title="American Football",Green Bay Packers vs. Arizona Cardinals
+https://gg.poocloud.in/arizonacardinals/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders vs. Dallas Cowboys" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKzbglB4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="American Football",Washington Commanders vs. Dallas Cowboys
 https://gg.poocloud.in/dallascowboys/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons vs. San Francisco 49ers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SuUblJLENgAmIRPWv2QEZ3ZAeQQm2RcMvOIGMjnaItCGs-DDAeHp0YCwKEJysWDFiYAnAyUIQQA.webp" group-title="American Football",Atlanta Falcons vs. San Francisco 49ers
@@ -207,11 +203,11 @@ https://gg.poocloud.in/laliga_d-alaves/index.m3u8
 https://gg.poocloud.in/detroitlions/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans vs. Seattle Seahawks" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKmEHwJ4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="American Football",Houston Texans vs. Seattle Seahawks
 https://gg.poocloud.in/seattleseahawks/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Oviedo vs Espanyol" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football",Real Oviedo vs Espanyol
+https://gg.poocloud.in/laliga_real-oviedo/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris SG vs Strasbourg" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgy4KKpQhuICCAAmekCWMwQ5vjoIUmfFFzXl680Q6a0wasaIhA.webp" group-title="Football",Paris SG vs Strasbourg
 https://gg.poocloud.in/ligue1_psg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union Berlin vs Borussia Mönchengladbach" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgU5MljB8Q3EBBA7EBkiESIQIGAQpM+KLmDKr680Q6a0wTsaIhA.webp" group-title="Football",Union Berlin vs Borussia Mönchengladbach
 https://gg.poocloud.in/bundesliga_union-berlin/index.m3u8
-#EXTINF:-1 tvg-id="General.Dummy.us" tvg-name="United States Grand Prix Free Practice 1" tvg-logo="https://streamed.pk/api/images/proxy//api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWqBAgpYMtxD6+ICCBjGQKbea2NgSCn2Gz6KXWxRdd5ellkemtGBu9KIQQA.webp.webp" group-title="Motor Sports",United States Grand Prix Free Practice 1
-https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC: German Darts Championship (Day 1 Evening)" tvg-logo="https://streamed.pk/api/images/proxy/https://ppv.to/assets/thumb/dbf53ef10711755e5c50bb8bf056a95e-thumbnail.jpg.webp" group-title="Darts",PDC: German Darts Championship (Day 1 Evening)
 https://gg.poocloud.in/darts/index.m3u8
