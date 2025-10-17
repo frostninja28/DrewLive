@@ -10,12 +10,6 @@ FALLBACK_LOGOS = {
     "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png"
 }
 
-CUSTOM_HEADERS = {
-    "Origin": "https://embedsports.top",
-    "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
-}
-
 TV_IDS = {
     "Baseball": "MLB.Baseball.Dummy.us",
     "Fight": "PPV.EVENTS.Dummy.us",
@@ -74,7 +68,7 @@ def extract_m3u8_from_embed(embed_url):
     if not embed_url:
         return None
     try:
-        response = requests.get(embed_url, headers=CUSTOM_HEADERS, timeout=15)
+        response = requests.get(embed_url, timeout=15)
         response.raise_for_status()
         return find_m3u8_in_content(response.text)
     except:
@@ -137,12 +131,6 @@ def generate_m3u8():
     content = ["#EXTM3U"]
     success = 0
 
-    vlc_header_lines = [
-        f'#EXTVLCOPT:http-origin={CUSTOM_HEADERS["Origin"]}',
-        f'#EXTVLCOPT:http-referrer={CUSTOM_HEADERS["Referer"]}',
-        f'#EXTVLCOPT:user-agent={CUSTOM_HEADERS["User-Agent"]}'
-    ]
-
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         futures = {executor.submit(process_match, m): m for m in matches}
         for future in concurrent.futures.as_completed(futures):
@@ -154,7 +142,6 @@ def generate_m3u8():
                 tv_id = TV_IDS.get(display_cat, "General.Dummy.us")
 
                 content.append(f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="{display_cat}",{title}')
-                content.extend(vlc_header_lines)
                 content.append(url)
                 success += 1
                 print(f"  ✅ {title} ({logo}) TV-ID: {tv_id}")
